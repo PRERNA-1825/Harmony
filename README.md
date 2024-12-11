@@ -1,2 +1,2 @@
-# Harmony
+StreamVerse
 School Management System
